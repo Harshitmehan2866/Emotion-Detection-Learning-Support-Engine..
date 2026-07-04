@@ -1,5 +1,4 @@
 # Emotion-Detection-Learning-Support-Engine..
-# Emotion Detection & Learning Support Engine
 
 An AI-powered educational support system that detects students' emotions from text and provides personalized learning guidance using Deep Learning and Large Language Models.
 
